@@ -28,7 +28,7 @@ h1 {
     padding: 9rem;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-top-width: 70%;
+    border-top-width: 100dvh;
 
     border: 2px solid #fcf6bf;
 }
@@ -62,3 +62,4 @@ a {
     text-decoration: none;
     color: #1b000f;
 }
+
